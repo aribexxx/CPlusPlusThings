@@ -16,7 +16,7 @@ class Test
 {    
     // Data members of class 
 public: 
-    // Pure Virtual Function 
+    // Pure Virtual Function(没有body)  VS Virtual Function（有body）
     virtual void show() = 0; 
 
     /* Other members */

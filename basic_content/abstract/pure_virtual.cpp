@@ -16,7 +16,7 @@ class A
 private:
     int a;
 public:
-    virtual void show()=0; // 纯虚函数
+    virtual void show()=0; // 纯虚函数,no function body.
 };
 
 

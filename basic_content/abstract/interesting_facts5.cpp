@@ -13,7 +13,7 @@ using namespace std;
 class Base  {
     public:
         Base()    { cout << "Constructor: Base" << endl; }
-        virtual ~Base()   { cout << "Destructor : Base" << endl; }
+        virtual ~Base()   { cout << "Destructor : Base" << endl; }// can be virtual, since "Base" might point to a "Derived" and delete it.
 };
 
 class Derived: public Base {
