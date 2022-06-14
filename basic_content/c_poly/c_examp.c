@@ -20,6 +20,7 @@ typedef struct _A
 }A;
 
 
+
 /**
  * @brief 子类
  */
@@ -27,6 +28,7 @@ typedef struct _B
 { 
     A _b; ///< 在子类中定义一个基类的对象即可实现对父类的继承。 
 }B;
+
 
 void FunA() 
 {

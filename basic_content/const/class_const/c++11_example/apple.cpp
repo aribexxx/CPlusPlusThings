@@ -5,7 +5,7 @@ private:
 public:
     Apple(int i);
     //使用c++11标准编译
-    static const int apple_number=10;
+    static const int apple_number=11;
     //const int apple_number=10;
     void take(int num) const;
     int add(int num);

@@ -10,8 +10,8 @@ int main()
     x = 9; 
 
     // Programmer assumes x to be 7 in rest of the code 
-    assert(x==7); 
-
+    assert(x==7); //Exception has occurred. SIGABRT
+    assert(x==9); //Will run
     /* Rest of the code */
 
     return 0; 

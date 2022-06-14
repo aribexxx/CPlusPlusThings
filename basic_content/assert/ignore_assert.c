@@ -12,6 +12,6 @@
 
 int main(){
     int x=7;
-    assert(x==5);
+    assert(x==5); // will ignore assert , so No exception
     return 0;
 }
