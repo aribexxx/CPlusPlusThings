@@ -16,9 +16,9 @@
 
 公众号已开放两大入口，分别是专辑与菜单，可以直接在微信公众号上阅读《C++ 那些事》内容，配上该仓库的代码，将会非常的爽，建议大家关注一波。
 
-个人公众号：guangcity
+个人公众号：guangcity; 联系方式： wechat: gcxzhang, 备注：来自github
 
-![](https://light-city.club/sc/assets/images/wechat.jpg)
+![](img/wechat.jpg)
 
 欢迎大家反馈及 C++ 交流，本人在微信创建了 C++ 那些事交流群，优质的 C++ 资源交流区，期待大家关注上面公众号，点击公众号右下角->联系我，拉你入群。
 
